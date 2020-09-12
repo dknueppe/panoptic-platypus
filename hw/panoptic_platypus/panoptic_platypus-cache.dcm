@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX2851
+D 5GHz, 5-Channel MIMO Receiver
+K 5GHz, 5x MIMO Downlink Receivers, Single-Uplink IEEE 802.11a Transmitter
+F https://datasheets.maximintegrated.com/en/ds/MAX2851.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name panoptic_platypus-cache)(type Legacy)(uri ${KIPRJMOD}/panoptic_platypus-cache.lib)(options "")(descr ""))
+  (lib (name panoptic_platypus-rescue)(type Legacy)(uri ${KIPRJMOD}/panoptic_platypus-rescue.lib)(options "")(descr ""))
+)
