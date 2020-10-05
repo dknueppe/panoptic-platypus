@@ -1,4 +1,4 @@
-update=Di 29 Sep 2020 14:12:34 CEST
+update=Mo 05 Okt 2020 02:22:34 CEST
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=
+LastNetListRead=panoptic_platypus.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -39,10 +39,10 @@ MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.5499999999999999
 TrackWidth1=0.25
-TrackWidth2=0.12
+TrackWidth2=0.1
 ViaDiameter1=0.8
 ViaDrill1=0.4
-ViaDiameter2=0.5
+ViaDiameter2=0.45
 ViaDrill2=0.2
 dPairWidth1=0.2
 dPairGap1=0.25
@@ -70,7 +70,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.05
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
@@ -251,9 +251,9 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=fanout
-Clearance=0.12
-TrackWidth=0.12
-ViaDiameter=0.5
+Clearance=0.1
+TrackWidth=0.1
+ViaDiameter=0.45
 ViaDrill=0.2
 uViaDiameter=0.3
 uViaDrill=0.1
